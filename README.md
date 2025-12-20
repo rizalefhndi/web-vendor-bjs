@@ -1,7 +1,7 @@
 
 
 
-## About Website Vendor
+## Website Vendor BJS
 
 This project is a Website Vendor designed to be a solution for providers of souvenirs, office supplies, printing, and convection services. This website features several main functionalities to help users browse and order the products they need efficiently.
 
